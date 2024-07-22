@@ -1,0 +1,19 @@
+{
+  "name": "y-z-super-server",
+  "version": "1.0.0",
+  "description": "Realy' i'm dont know NODE JS",
+  "main": "lib/appServer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yehudit Zamir",
+  "license": "ISC",
+  
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
